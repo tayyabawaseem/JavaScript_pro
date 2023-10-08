@@ -1,1 +1,1 @@
-# JavaScript_pro
+# JavaScript
